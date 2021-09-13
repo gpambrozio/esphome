@@ -10,6 +10,11 @@ setup.py @esphome/core
 esphome/*.py @esphome/core
 esphome/core/* @esphome/core
 
+
+dfgdfgg
+dfggdf
+
+
 # Integrations
 esphome/components/ac_dimmer/* @glmnet
 esphome/components/adc/* @esphome/core
